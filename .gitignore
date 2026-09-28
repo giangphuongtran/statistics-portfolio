@@ -3,3 +3,7 @@ TEMPLATE_17cell.md
 Statistical Modeling Portfolio - Reference Guide.html
 .DS_Store
 **/.DS_Store
+**/__pycache__/
+**/*.pyc
+.venv/
+*.egg-info/
